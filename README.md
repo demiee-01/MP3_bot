@@ -4,7 +4,7 @@ A Telegram bot that downloads YouTube videos and converts them to MP3 audio file
 
 **Develop by** : https://github.com/demiee-01
 
-**Telegram_Bot** : @demiee_mp3_bot
+**Telegram_Bot** : [@demiee_mp3_bot](https://t.me/demiee_mp3_bot)
 
 ## Prerequisites
 
