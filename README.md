@@ -43,3 +43,5 @@ python bot.py
 2. Send `/start` to see the welcome message
 3. Send any YouTube URL
 4. Wait for the bot to download, convert, and send the MP3 file
+
+**develop by** : github.com/demiee-01
