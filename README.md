@@ -46,4 +46,13 @@ python bot.py
 3. Send any YouTube URL
 4. Wait for the bot to download, convert, and send the MP3 file
 
+How to run it :
+
+```
+source venv/bin/activate
+pip install --upgrade yt-dlp
+python bot.py
+
+```
+
 
