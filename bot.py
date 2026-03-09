@@ -1,3 +1,11 @@
+''' 
+▄      ▘        ▖  ▖▄▖  ▄▖  
+▌▌█▌▛▛▌▌█▌█▌    ▛▖▞▌▙▌  ▄▌  
+▙▘▙▖▌▌▌▌▙▖▙▖    ▌▝ ▌▌   ▄▌▗ V1
+                            
+
+'''
+
 import os
 import logging
 from telegram import Update
